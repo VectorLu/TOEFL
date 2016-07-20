@@ -8,4 +8,5 @@
 8. cheetah /'tʃitə/ 猎豹
 9. surrounding
 10. law lɔ/
-11. criticism 美音 /'krɪtə'sɪzəm/ 
+11. criticism 美音 /'krɪtə'sɪzəm/
+12. mosquito /mə'skito/ 蚊子
