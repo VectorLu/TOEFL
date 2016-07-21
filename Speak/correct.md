@@ -15,4 +15,7 @@
 15. gentle 其副词形式为 gently
 16. leash   英音 /liːʃ/   美音 /liʃ/ 栓狗的皮带 n. & 用皮带栓 v.
 17. excess  美音 /ˈɛkˌsɛs/
-18. youngster /'jʌŋstɚ/ 
+18. youngster /'jʌŋstɚ/
+19. influenza [Un. formal = flu]  /ˌɪnflu'ɛnzə/
+20. calory [Cn.] /'kæləri/
+21. secretaty /'sɛkrə'tɛri/
