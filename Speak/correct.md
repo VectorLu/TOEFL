@@ -4,7 +4,14 @@
 4. regionalism /'ridʒənəlɪzəm/
 5. instrument  /'ɪnstrəmənt/
 6. presence  /'prɛzns/
-7. registrar
+7. registrar |ˌredʒɪsˈtrɑː(r),ˈredʒ-|
+noun British
+    1. Administration 户籍管理员
+    2. University 教务长
+    3. Medicine 专科住院医生
+        Junior/Senior Registrar
+        初级/高级专科住院医生
+    4. Law 高等法院注册官
 8. cheetah /'tʃitə/ 猎豹 n.
 9. surrounding
 10. law lɔ/
@@ -19,3 +26,10 @@
 19. influenza [Un. formal = flu]  /ˌɪnflu'ɛnzə/
 20. calory [Cn.] /'kæləri/
 21. secretaty /'sɛkrə'tɛri/
+22. preferable |ˈprɛf(ə)rəb(ə)l| adj.
+23. preferability |prɛf(ə)rəˈbɪlɪti| noun,
+24. preferableness |ˈprɛf(ə)rəblnəs| noun
+25. competitive  |kəmˈpɛtɪtɪv|
+26. competent |ˈkɒmpɪtənt|
+27. executive 美音 /ɪɡ'zɛkjətɪv/
+28. petition |pəˈtɪʃn|
