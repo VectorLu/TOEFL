@@ -33,3 +33,16 @@ noun British
 26. competent |ˈkɒmpɪtənt|
 27. executive 美音 /ɪɡ'zɛkjətɪv/
 28. petition |pəˈtɪʃn|
+29. era |ˈɪərə| 纪元；时代；
+    to mark the end of an era
+30. accuse |əˈkjuːz|
+31. communist |ˈkɒmjʊnɪst|
+    1. [cn] 共产主义者
+    2. [adj] 共产主义的 Communist Party
+32. communism |ˈkɒmjʊnɪz(ə)m|
+33. approximate
+    1. |əˈprɒksɪmət|adjective
+    2. |əˈprɒksɪmeɪt| vt.
+        1. to approximate to sth.
+        2. his story approximates to the one given by his accomplice (他的供述与同犯所讲的基本相符)
+34. 
