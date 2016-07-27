@@ -45,4 +45,17 @@ noun British
     2. |əˈprɒksɪmeɪt| vt.
         1. to approximate to sth.
         2. his story approximates to the one given by his accomplice (他的供述与同犯所讲的基本相符)
-34. 
+34. revenge |rɪˈvendʒ|
+    1. 出于报复心理 in a spirit of revenge
+    2. 他报了杀兄之仇 he revenged a murder of his elder brother
+    3. to revenge oneself (on sb) 向某人报仇
+
+35. racism |ˈreɪsɪzəm| 种族歧视；种族主义
+36. graffiti |grəˈfiːti|
+37. obedience |əˈbiːdɪəns|
+    to take a vow of obedience
+38. retribution |ˌretrɪˈbjuːʃn| 惩罚 惩罚所犯罪行 to make retribution for one's crimes
+39. colloquial [adj] |kəˈləʊkwɪəl| 口语的
+40. fable |ˈfeɪbl| 寓言；谎言
+41. diplomatic |ˌdɪpləˈmætɪk| [adj] 外交的；外交人员的 in diplomatic circle ; 得体的，圆通的；
+42. sword |sɔːd|
