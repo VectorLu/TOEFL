@@ -1,4 +1,5 @@
-1. desert /ˈdɛzət/
+记录下我读音不准确的单词，反复复习
+1. desert /ˈdɛzət/ 丢弃
 2. region /'ridʒən/
 3. regional /'ridʒənl/
 4. regionalism /'ridʒənəlɪzəm/
@@ -14,7 +15,7 @@ noun British
     4. Law 高等法院注册官
 8. cheetah /'tʃitə/ 猎豹 n.
 9. surrounding
-10. law lɔ/
+10. law ／lɔ/
 11. criticism 美音 /'krɪtə'sɪzəm/
 12. mosquito /mə'skito/ 蚊子
 13. metal 金属n.&mental 精神的adj.
@@ -45,6 +46,7 @@ noun British
     2. |əˈprɒksɪmeɪt| vt.
         1. to approximate to sth.
         2. his story approximates to the one given by his accomplice (他的供述与同犯所讲的基本相符)
+
 34. revenge |rɪˈvendʒ|
     1. 出于报复心理 in a spirit of revenge
     2. 他报了杀兄之仇 he revenged a murder of his elder brother
@@ -59,3 +61,41 @@ noun British
 40. fable |ˈfeɪbl| 寓言；谎言
 41. diplomatic |ˌdɪpləˈmætɪk| [adj] 外交的；外交人员的 in diplomatic circle ; 得体的，圆通的；
 42. sword |sɔːd|
+43. scapegoat |ˈskeɪpgəʊt| 替罪羊
+44. cement |sɪˈment|
+    1. [n] 水泥；黏固粉；牙骨质；胶合剂；碎屑岩的基质
+    2. [vt] 用水泥／。。。黏结
+    3. [vt] their common grief cemented their friendship 共同的不幸加深了他们的友谊
+45. soul |səʊl|
+46. prior |ˈpraɪə(r)|
+47. fibre |ˈfaɪbə(r)| 纤维
+48. fabric |ˈfæbrɪk| [Un] 织物；结构；基础； the fabric of society 社会基本结构
+49. technician |tekˈnɪʃn| [n] 技师；技术精湛者
+50. technique |tekˈniːk| [n] 方法；技术；技巧
+    1. printing/processing/manufacturing techniques
+    2. he has't got the technique to cope with difficult passages
+51. passage |ˈpæsɪdʒ| [n]
+    1. [Cn] 走廊；过道
+    2. [Cn] 通道 to clear/force/leave a passage 开／挤／留出一条通道; an underground passage
+    3. [Cn]道 ear/urinary/nasal passages 耳道／尿道／鼻腔
+    4. [Cn] 段落；乐段 selected passages 选段
+    5. [Un] 通行 the passage of vehicles/ships
+    6. [Un] 通行权 to deny sb passage 拒绝某人通行
+    7. [Un] 推移 the passage of time/years
+    8. [Un] 过渡 the passage from childhood to adolescence
+    9. [Cn] *dated*  旅程
+    10. [Un] （法案的）通过
+52. anatomy |əˈnætəmi|
+    1. [Un] 解剖学
+    2. [Cn] 动植物结构
+    3. [Cn] 人体
+    4. [Cn] 剖析
+53. Buddhism |ˈbʊdɪzəm| 佛教
+54. Buddhist
+    1. [n] 佛教徒
+    2. [adj] 佛教的；信奉佛教的
+    a Buddhist monk/temple
+55. referee |ˌrefəˈriː|
+    1. [n] 裁判；推荐人(BrE) to act as a referee for sb 做某人的推荐人
+    2. [v]（为。。。）担任裁判
+    
