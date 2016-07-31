@@ -1,5 +1,9 @@
 记录下我读音不准确的单词，反复复习
-1. desert /ˈdɛzət/ 丢弃
+1. desert /ˈdɛzət/ [vt]抛弃；背离；[vi]擅离；叛逃；[n] 沙漠；荒凉时期
+    1. desert regional
+    2. a cultural desert
+    3. 我们的运气没了 our luck deserted us
+    4. 叛逃到敌营 to desert to the enemy camp
 2. region /'ridʒən/
 3. regional /'ridʒənl/
 4. regionalism /'ridʒənəlɪzəm/
@@ -98,4 +102,19 @@ noun British
 55. referee |ˌrefəˈriː|
     1. [n] 裁判；推荐人(BrE) to act as a referee for sb 做某人的推荐人
     2. [v]（为。。。）担任裁判
-    
+56. industry |ˈɪndəstri|
+    1. [Un] 工业 heavy/light industry 重／轻工业
+    2. [Cn] 企业 the catering/advertising industry 饮食业／广告业
+    3. [Cn] 专题研究 the Shakespeare/Joyce industry 莎士比亚／乔伊斯研究
+    4. [Un] 勤奋
+    5. **industrial** |ɪnˈdʌstrɪəl|[adj]
+    6. *industrial action* 罢工(BrE) to take industrial action
+    7. to take industrial action
+
+57. resemble |rɪˈzembl|
+[vt] 像 She resembles her grandmother.
+58. democracy |dɪˈmɒkrəsi|
+    1. [Cn] 民主国家 a multi-party democracy 多党制民主国家
+    2. [Un] 民主政体；民主制度
+59. analogy |əˈnælədʒi|
+a comparison between one thing and another, typically for the purpose of explanation or clarification:
