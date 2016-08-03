@@ -113,8 +113,32 @@ noun British
 
 57. resemble |rɪˈzembl|
 [vt] 像 She resembles her grandmother.
+
 58. democracy |dɪˈmɒkrəsi|
     1. [Cn] 民主国家 a multi-party democracy 多党制民主国家
     2. [Un] 民主政体；民主制度
+
 59. analogy |əˈnælədʒi|
 a comparison between one thing and another, typically for the purpose of explanation or clarification:
+
+60. conjunction |kənˈdʒʌŋkʃn| [n]
+    1. Seat belts are more effective when used **in conjunction with** air bags. 安全带和安全气囊一起使用效果更好。
+    2. a happy conjunction of circumstances 幸好几件事情同时发生；几件事情令人高兴的巧合
+
+61. sin |sɪn| 不要跟数学上的sin搞混了，那个其实是sine(|saɪn|)的缩写
+    1. [Un] original sin 原罪
+    2. the sin of pride 傲慢之罪
+    3. to commit a sin
+    4. to forgive one's sins
+    5. to confess one's sins
+    6. a sin against sb/sth 冒犯某人／亵渎某事物的罪过
+    7. the seven deadly sins
+    8. [Cn] 过错
+        1. it's a sin to do sth
+        2. a sin of omission 渎职
+        3. (BrE) for one's sin 自作孽
+    9. [vi]
+        1. to sin against sb/sth
+        2. to be more sinned against than sinning 过错无多而报应太重
+
+62. thorough|ˈθʌrə, American ˈθʌrəʊ|
