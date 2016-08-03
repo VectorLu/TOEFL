@@ -106,7 +106,7 @@ noun British
     1. [Un] 工业 heavy/light industry 重／轻工业
     2. [Cn] 企业 the catering/advertising industry 饮食业／广告业
     3. [Cn] 专题研究 the Shakespeare/Joyce industry 莎士比亚／乔伊斯研究
-    4. [Un] 勤奋
+    4. [Un] 勤奋｀
     5. **industrial** |ɪnˈdʌstrɪəl|[adj]
     6. *industrial action* 罢工(BrE) to take industrial action
     7. to take industrial action
