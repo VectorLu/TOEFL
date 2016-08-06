@@ -1,9 +1,19 @@
 记录下我读音不准确的单词，反复复习
-1. desert /ˈdɛzət/ [vt]抛弃；背离；[vi]擅离；叛逃；[n] 沙漠；荒凉时期
-    1. desert regional
+1. desert
+[n]/ˈdɛzət/ 沙漠；荒凉时期;
+    1. desert region
     2. a cultural desert
     3. 我们的运气没了 our luck deserted us
     4. 叛逃到敌营 to desert to the enemy camp
+    5. 飞机迫降在沙漠中。 The plane crash-landed in the desert.
+    6. [vt]|dɪˈzɜːt|to leave sb/sth and no longer help or support them
+        1. Many of the party's traditional voters deserted it at the last election.
+        2. **desert sb/sth for sb/sth** 为了。。。而抛弃 He deserted her for another woman.
+    7. [vt]to leave a place so that it is empty
+        1. The birds have deserted their nest.
+    8. [vi] to leave the army, navy etc without permission
+        1. Several hundred soldiers have deserted.
+    9. [vt] if a feeling, 
 2. region /'ridʒən/
 3. regional /'ridʒənl/
 4. regionalism /'ridʒənəlɪzəm/
@@ -142,3 +152,9 @@ a comparison between one thing and another, typically for the purpose of explana
         2. to be more sinned against than sinning 过错无多而报应太重
 
 62. thorough|ˈθʌrə, American ˈθʌrəʊ|
+63. queue |kjuː|
+    1. [n] to line up/stand in a queue
+    2. [n]排队等公交车的人 a bus queue
+    3. [n]to jump the queue
+    4. [vi] to queue up to do sth 纷纷等着做某事
+64.
