@@ -13,7 +13,9 @@
         1. The birds have deserted their nest.
     8. [vi] to leave the army, navy etc without permission
         1. Several hundred soldiers have deserted.
-    9. [vt] if a feeling, 
+    9. [vt] if a feeling, quality, or skill, you no longer have it, especially at the time you need it
+        1. Mike's confidence seemed to have deserted him.
+    10. 衍生词：deserter 逃兵
 2. region /'ridʒən/
 3. regional /'ridʒənl/
 4. regionalism /'ridʒənəlɪzəm/
@@ -157,4 +159,4 @@ a comparison between one thing and another, typically for the purpose of explana
     2. [n]排队等公交车的人 a bus queue
     3. [n]to jump the queue
     4. [vi] to queue up to do sth 纷纷等着做某事
-64.
+64. educate |ˈedʒʊkeɪt| [v]
