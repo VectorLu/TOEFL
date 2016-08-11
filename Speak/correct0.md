@@ -160,3 +160,6 @@ a comparison between one thing and another, typically for the purpose of explana
     3. [n]to jump the queue
     4. [vi] to queue up to do sth 纷纷等着做某事
 64. educate |ˈedʒʊkeɪt| [v]
+65. police |pəˈliːs|
+66. dumb |dʌm| 哑的；一时说不出话的
+67. figurative |ˈfɪgərətɪv, American ˈfɪɡjər-| [adj] 比喻的；具象的（一种绘画流派)
