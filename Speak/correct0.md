@@ -167,3 +167,13 @@ a comparison between one thing and another, typically for the purpose of explana
     1. food additive
     2. additive-free orange juice
     3. chemical additives in petrol
+69. humane |hjuːˈmeɪn| [adj] 富于同情心的；人道的  humane killer 麻醉屠宰机
+70. execute |ˈeksɪkjuːt| [vt]
+    1. *kill as legal punishment* to be executed for sth
+71. executive |ɪgˈzekjʊtɪv|
+    1. [adj] chief executive officer
+    2. [n] a top executive 高层主管
+    3. [n] 执行委员会
+    4. [n] the executive 行政部门
+72. telecommute |ˌtelɪkəˈmjuːt| 通过电信设备远程工作
+73. 
