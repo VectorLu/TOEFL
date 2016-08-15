@@ -176,4 +176,8 @@ a comparison between one thing and another, typically for the purpose of explana
     3. [n] 执行委员会
     4. [n] the executive 行政部门
 72. telecommute |ˌtelɪkəˈmjuːt| 通过电信设备远程工作
-73. 
+73. champagne |ʃæmˈpeɪn|
+    1. [Cn] 香槟酒
+    2. [Un] 香槟色
+    3. [adj] 香槟色的
+74. 
