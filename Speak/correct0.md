@@ -180,4 +180,14 @@ a comparison between one thing and another, typically for the purpose of explana
     1. [Cn] 香槟酒
     2. [Un] 香槟色
     3. [adj] 香槟色的
-74. 
+74. compensation |ˌkɒmpenˈseɪʃn|
+    1. [Un] 赔偿、补偿
+        1. to award/claim/pay/receive/seek compensation
+        2. as/in/by way of compensation for sth
+        3. he was awarded $3000 for his injuries
+        4. a compensation claim
+    2. [n] 弥补
+        1. the rise in salary was no compensation for the long hours
+        2. getting older has its compensation 上年纪有上年纪的好处
+75. these |ðiːz|
+76. this |ðɪs|
