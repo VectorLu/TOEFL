@@ -191,3 +191,8 @@ a comparison between one thing and another, typically for the purpose of explana
         2. getting older has its compensation 上年纪有上年纪的好处
 75. these |ðiːz|
 76. this |ðɪs|
+77. gaseous |ˈgæsɪəs,ˈgeɪsɪəs| 气体的
+78. closet |ˈklɒzɪt|
+79. fascist |ˈfæʃɪst|
+    1. [adj] 法西斯的
+    2. [n] 法西斯分子；专横独裁的人
