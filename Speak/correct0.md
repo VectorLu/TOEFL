@@ -196,3 +196,7 @@ a comparison between one thing and another, typically for the purpose of explana
 79. fascist |ˈfæʃɪst|
     1. [adj] 法西斯的
     2. [n] 法西斯分子；专横独裁的人
+80. hasty |ˈheɪsti| 匆忙的；草率的 adj
+81. tear
+    1. [Cn] |tɪə(r)| 眼泪
+    2. [v] |teə(r)| 撕裂
