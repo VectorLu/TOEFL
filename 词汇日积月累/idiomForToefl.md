@@ -118,4 +118,47 @@
 113. backseat driver 指手画脚的人
 114. bite one's head off 大发脾气
 115. to see which way the wind is blowing 看清形势
-116.
+116. to be puffed up (with pride) 自负
+117. to blow sb a kiss 想某人送飞吻
+118. to blow sb's mind 使某人十分诧异
+119. to blow one's chance 错失机会
+120. to blow one's lines 念错台词
+121. to blow one's cover 暴露某人的身份
+122. to fell sb with a blow
+    fell v 击倒
+123. blow one's top 怒发冲冠
+124. break one's neck 痛打一顿，拼命地做某事
+125. break the ice 打破僵局
+126. bring down the house 掌声雷动
+127. buy your story 相信你的话
+128. call it a day 今天到此为止
+129. capital idea 好主意
+130. cold fish 冷酷无情的人
+131. dark horse 黑马；冷门
+132. daylight robbery 价钱贵得离谱
+133. dear Jones letter 绝交信
+134. dirty dog 卑鄙小人
+135. every Tom, Dick and Harry 张三李四
+136. flat tire 没精打采
+137. go on the horse 快一点吧
+138. good for nothing 毫无用处
+139. happy go lucky 乐天派
+140. have a big mouth 话多的人
+141. have it both ways 权衡两方面
+142. have words with sb 与某人发生口角
+143. hit of the show 表演中最精彩的一幕
+144. hit the high spots 达到高标准
+145. a sack of potatoes 粗陋难看
+146. hit the sack 上床睡觉
+147. hold one's tongue 保持沉默
+148. I.O.U = I own you 我欠你；借据
+149. in hot water 遇到麻烦
+150. in the hole 遇到经济困难
+151. in the long run 从长远来看；终究
+152. in the soap 遇到麻烦
+153. keep one's head 镇定
+154. keep one's shirt on 不动手打架
+155. keep punching 继续努力
+156. kick off 开始干某事；开球
+    to kick off the season with...
+157. knock it 
