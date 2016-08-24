@@ -220,4 +220,26 @@ a comparison between one thing and another, typically for the purpose of explana
 88. allergic |əˈlɜːdʒɪk|
     1. be allergic to sth 对某物过敏；对某事物及其反感
     2. to have/suffer from allergic reaction
-89. 
+89. finale |fɪˈnɑːli, American -næli| 最后一幕；终曲
+90. academy |əˈkædəmi|
+91. adolescent |ˌædəˈlesnt| n&adj
+92. pedagogic |ˌpedəˈgɒdʒɪk,|pedagogical |ˌpedəˈgɒdʒɪkl|
+    1. pedagogical methodology 教学法
+93. nowadays [adv]|ˈnaʊədeɪz|
+94. in a word, 逗号后面就只能用一个单词来解决
+95. economy |ɪˈkɒnəmi|
+    1. [Un&Cn] 节约
+        1. to practice economy 厉行节约
+        2. to make economies in sth 在某方面实行节约
+    2. [Cn] 经济
+        1. the state of the economy
+        2. a market/planned economy 市场经济／计划经济
+96. economic |ˌiːkəˈnɒmɪk,ˌek-|
+[adj]
+    1. 经济学的
+    2. 经济的 to impose/lift economic sanctions 实行／解除经济制裁
+    3. 有利可图的
+97. economics |ˌiːkəˈnɒmɪks,ˌek-|
+经济学
+98. economize [vi] |ɪˈkɒnəmaɪz| 节约 to economize on sth 节约用某物
+99. econometric [adj] 计量经济学的
