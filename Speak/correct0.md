@@ -200,3 +200,24 @@ a comparison between one thing and another, typically for the purpose of explana
 81. tear
     1. [Cn] |tɪə(r)| 眼泪
     2. [v] |teə(r)| 撕裂
+82. limb |lɪm|
+    1. the fore/hind/upper/low limb
+    2. stretch one's limbs
+    3. to tear sb from limb to limb 肢解某人；猛烈地抨击某人
+    4. to be/go out on a limb 使自己孤立无援；与大多数人意见相左
+83. obsolete 淘汰的；过期的；过时的；退化的
+    1. obsolete machine
+    2. obsolete technology
+    3. obsolete passport/ticket
+    4. obsolete experience/law/practice
+    5. obsolete limb/organ
+84. limb |lɪm|
+85. allergen |ˈælədʒən| 过敏原
+86. pollen |ˈpɒlən| 花粉
+87. allergy |ˈælədʒi|
+    1. to have an allergy to sth
+    2. People with allergies are super-sensitive to things that most people find harmless, including pollen from plants, dust and food.
+88. allergic |əˈlɜːdʒɪk|
+    1. be allergic to sth 对某物过敏；对某事物及其反感
+    2. to have/suffer from allergic reaction
+89. 
