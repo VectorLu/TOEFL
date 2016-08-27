@@ -27,7 +27,7 @@
     1. the ratio of men to women is two to five
 11. descendant [n] 后代
 12. agrarian |əˈgreərɪən| [adj]
-13. discontent [n] 不满
+13. discontent |ˌdɪskənˈtent| [n] 不满
 14. discontented[adj]
 15. depletion |dɪˈpliːʃn| [Un] 耗尽
 16. tadpole |ˈtædpəʊl| [Cn] 蝌蚪
@@ -63,4 +63,4 @@
         2. 试着说出 I can only hazard a guess
 2. equivocal |ɪˈkwɪvəkl| [adj] 模棱两可的；难以理解的
 3. legitimate [adj] 合法的；合理的
-4. 
+4.
