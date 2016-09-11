@@ -243,3 +243,6 @@ a comparison between one thing and another, typically for the purpose of explana
 经济学
 98. economize [vi] |ɪˈkɒnəmaɪz| 节约 to economize on sth 节约用某物
 99. econometric [adj] 计量经济学的
+100. identifier |aɪˈdentɪfaɪə(r)| 识别码；标志符
+101. era |ˈɪərə| n. 纪元，时代
+102. translate |ˌtrænzˈleɪt|
