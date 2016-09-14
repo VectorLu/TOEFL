@@ -246,3 +246,5 @@ a comparison between one thing and another, typically for the purpose of explana
 100. identifier |aɪˈdentɪfaɪə(r)| 识别码；标志符
 101. era |ˈɪərə| n. 纪元，时代
 102. translate |ˌtrænzˈleɪt|
+103. rebellious |rɪˈbelɪəs| 叛乱的；叛逆的
+104. 
