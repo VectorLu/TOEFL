@@ -24,3 +24,22 @@
 14. duration |djʊˈreɪʃn, American dʊ-| Un 持续时间
     1. a peace of long duration
     2. for the duration of the meeting
+15. alias |ˈeɪlɪəs| n化名；同义名；adv
+16. lurk vi潜伏；闲逛；潜水（网络用语）；
+17. lurking adj潜藏的
+18. 容易认错，仔细区分
+19. causal |ˈkɔːzl| adj. 原因的；表示原因的
+20. casual |ˈkæʒʊəl|
+    1. adj. 偶然的 a casual encounter
+    2. adj. 随意的；漫不经心的 casual sex 一夜情
+    3. adj. 临时的 ~ job/labour
+    4. n. 临时工
+    5. casuals 便装；便鞋
+21. scenario |sɪˈnɑːrɪəʊ, American -ˈnær-| 剧本；剧情梗概；设想的情况Cn
+22. manipulate |məˈnɪpjʊleɪt| vt. 操作；操纵；控制；篡改，对……推拿
+23. independent variables 自变量
+24. dependent variables 因变量
+25. lurking variables 潜在变量
+26. insomnia |ɪnˈsɒmnɪə| Un. 失眠症
+27. locale |ləʊˈkɑːl, American -ˈkæl| 发生地点
+28.
